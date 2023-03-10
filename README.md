@@ -27,7 +27,7 @@ On register page you can fill out the details and create an account.
 11. Once you Logout you will be redirected to Login page again.
 
 Demo Credentials :
-Login : Nandini Bharadwaj
-Password : 12345
+1. Login : Nandini Bharadwaj
+2. Password : 12345
 
 Credits : This application was created by Pratiksha Nagawade
