@@ -7,8 +7,8 @@ This is a Flask web application that allows users to create an account and Login
 
 Installation and Setup :
 
-Clone the repository: git clone https://github.com/PratsN/flask-login.git
-Run the development server: python app.py
+1. Clone the repository: git clone https://github.com/PratsN/flask-login.git
+2. Run the development server: python app.py
 
 Steps to Follow :
 
